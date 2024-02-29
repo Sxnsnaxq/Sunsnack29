@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sunsnack</h1>
 <h3 align="center">A passionate developer from Thailand</h3>
 
-- 📫 How to reach me **suriya.suks@ku.th**
+- 📫 How to reach me **3suriya.3s@gmail.com
+- **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
